@@ -1,6 +1,6 @@
 {
     "name": "gemz/dns",
-    "description": "Get simply DNS records",
+    "description": "Get DNS records",
     "keywords": [
         "gemz",
         "dns"
